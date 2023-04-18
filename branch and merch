@@ -1,0 +1,9 @@
+En este practica voy a realizar branch an merch, que significa crear y fusionar ramas.
+Las ramas se crean cuando se va a trabajar en un caracteristica de un proyecto y cuando esta esta lista para su uso o
+prueba, se debe fusionar con la rama MASTER o MAIN
+En este momento estoy en MAIN, los pasos a seguir seran los siguientes
+1. crear repositorio local
+2. crear 15 ramas (nombradas del 1 al 15)
+3. mezclar en pares 6 de estas 15 ramas
+4. Subir el repositorio a github
+hasta aqui el repositorio MAIN
